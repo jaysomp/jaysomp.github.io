@@ -8,8 +8,8 @@ Welcome to my GitHub repository, where I share my projects in both data science 
 
 1. **Emotion Classification Using Naive Bayes Classifier**
    - Description: In this data science project, I developed a Jupyter notebook for Emotion Classification using a Naive Bayes Classifier. I leveraged various Python libraries, including Seaborn, Matplotlib, Scikit-learn, Pandas, and NumPy, to create an effective emotion classification model.
-   - [Project 1 Notebook](https://github.com/jaysomp/Projects/blob/main/Data%20Science%20Projects/Emotion%20classification%20using%20Naive%20Bayes%20Classifier/Emotion_Classification.ipynb)
-   - [Dataset on Kaggle](https://www.kaggle.com/code/freak360/emotion-dataset-nlp-sentiment-analysis)
+   - [Notebook](https://github.com/jaysomp/Projects/blob/main/Data%20Science%20Projects/Emotion%20classification%20using%20Naive%20Bayes%20Classifier/Emotion_Classification.ipynb)
+   - [Dataset]([https://www.kaggle.com/code/freak360/emotion-dataset-nlp-sentiment-analysis](https://www.kaggle.com/code/freak360/emotion-dataset-nlp-sentiment-analysis/input))
    - 
    - **Highlights:**
      - **Dataset:** The project utilized the Emotion Dataset available on Kaggle, containing text data with associated emotions.
@@ -18,8 +18,8 @@ Welcome to my GitHub repository, where I share my projects in both data science 
 
 2. **Predicting Student Performance Using Linear Regression**
    - Description: This data science project focuses on predicting student performance using a Linear Regression model. The Jupyter notebook incorporates Python libraries like Seaborn, Matplotlib, Scikit-learn, Pandas, and NumPy. The project showcases a highly accurate model with an R-Squared score of approximately 0.98.
-  - [Project 2 Notebook](https://github.com/jaysomp/Projects/blob/main/Data%20Science%20Projects/Predicting%20student%20performance%20using%20Linear%20Regression/Student_Performance%20.ipynb)
-  - [Dataset for Project 2](https://github.com/jaysomp/Projects/blob/main/Data%20Science%20Projects/Predicting%20student%20performance%20using%20Linear%20Regression/Student_Performance.csv)
+  - [Notebook](https://github.com/jaysomp/Projects/blob/main/Data%20Science%20Projects/Predicting%20student%20performance%20using%20Linear%20Regression/Student_Performance%20.ipynb)
+  - [Dataset](https://github.com/jaysomp/Projects/blob/main/Data%20Science%20Projects/Predicting%20student%20performance%20using%20Linear%20Regression/Student_Performance.csv)
     
    - **Highlights:**
      - **Dataset:** The project used a dataset available on the GitHub repository, containing student performance data.
