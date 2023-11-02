@@ -15,7 +15,7 @@ Welcome to my GitHub repository, where I share my projects in both data science 
     **Highlights:**
      - **Dataset:** The project utilized the Emotion Dataset available on Kaggle, containing text data with associated emotions. The dataset includes a statement and the sentiment produced by the statement. To facilitate modeling, I encoded the three emotions, as they were categorical features.
      - **Classification Model:** The Naive Bayes classifier achieved an F1 score of approximately 0.88.
-     - **Confusion Matrix Heatmap:** To evaluate the model's performance, I created a confusion matrix heatmap, providing visual insights into the classification results.
+     - **Data Visualization:** To evaluate the model's performance, I created a confusion matrix heatmap, providing visual insights into the classification results.
      - **User Input Testing:** The notebook includes a section for user input, allowing testing with custom text inputs not in the dataset.
 
 2. **Predicting Student Performance Using Linear Regression**
