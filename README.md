@@ -1,4 +1,4 @@
-# Jaydeep Sompalli Portfolio
+# Portfolio
 
 ## Overview
 
