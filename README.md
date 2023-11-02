@@ -1,5 +1,10 @@
 # Portfolio
 
+[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png)](https://www.linkedin.com/in/jaydeep-sompalli-558a50190/)
+[![Email](https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png)](mailto:jsompalli2@student.gsu.edu)
+
+
+
 ## Overview
 
 Welcome to my GitHub repository, where I share my projects in both data science and software engineering. This repository is a collection of Jupyter notebooks, software applications, and code that demonstrate my skills in data analysis, machine learning, and software development.
