@@ -4,7 +4,7 @@
 
 Welcome to my GitHub repository, where I share my projects in both data science and software engineering. This repository is a collection of Jupyter notebooks, software applications, and code that demonstrate my skills in data analysis, machine learning, and software development.
 
-## Data Science Projects
+## Data Science Notebooks
 
 1. **Emotion Classification Using Naive Bayes Classifier**
    - Description: In this data science project, I developed a Jupyter notebook for Emotion Classification using a Naive Bayes Classifier. I leveraged various Python libraries, including Seaborn, Matplotlib, Scikit-learn, Pandas, and NumPy, to create an effective emotion classification model.
