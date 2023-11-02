@@ -1,6 +1,6 @@
 # Portfolio
 
-## Technical Skills
+## :briefcase: Technical Skills
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -16,7 +16,7 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
 
-## Overview
+## :eye: Overview
 
 Welcome to my GitHub repository, where I share my projects in both data science and software engineering. This repository is a collection of Jupyter notebooks, software applications, and code that demonstrate my skills in data analysis, machine learning, and software development.
 
