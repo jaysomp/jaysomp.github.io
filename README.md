@@ -10,7 +10,7 @@ Welcome to my GitHub repository, where I share my projects in both data science 
    - Description: In this data science project, I developed a Jupyter notebook for Emotion Classification using a Naive Bayes Classifier. I leveraged various Python libraries, including Seaborn, Matplotlib, Scikit-learn, Pandas, and NumPy, to create an effective emotion classification model.
    - [Notebook](https://github.com/jaysomp/Projects/blob/main/Data%20Science%20Projects/Emotion%20classification%20using%20Naive%20Bayes%20Classifier/Emotion_Classification.ipynb)
    - [Dataset](https://www.kaggle.com/code/freak360/emotion-dataset-nlp-sentiment-analysis/input)
-   - 
+     
    - **Highlights:**
      - **Dataset:** The project utilized the Emotion Dataset available on Kaggle, containing text data with associated emotions.
      - **Classification Model:** The Naive Bayes classifier achieved an F1 score of approximately 0.88.
