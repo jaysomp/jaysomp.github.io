@@ -1,6 +1,6 @@
 # Portfolio
 
-## :briefcase: Technical Skills
+## 💼 Technical Skills
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -16,11 +16,11 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
 
-## :eye: Overview
+## 👁️ Overview
 
 Welcome to my GitHub repository, where I share my projects in both data science and software engineering. This repository is a collection of Jupyter notebooks, software applications, and code that demonstrate my skills in data analysis, machine learning, and software development.
 
-## :notebook_with_decorative_cover: Data Science Notebooks
+## 🗒️ Data Science Notebooks
 
 1. **Emotion Classification Using Naive Bayes Classifier**
    - Description: In this data science project, I developed a Jupyter notebook for Emotion Classification using a Naive Bayes Classifier. I leveraged various Python libraries, including Seaborn, Matplotlib, Scikit-learn, Pandas, and NumPy, to create an effective emotion classification model.
