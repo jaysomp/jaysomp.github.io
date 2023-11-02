@@ -17,8 +17,8 @@ Welcome to my GitHub repository, where I share my projects in both data science 
 
 2. **Predicting Student Performance Using Linear Regression**
    - Description: This data science project focuses on predicting student performance using a Linear Regression model. The Jupyter notebook incorporates Python libraries like Seaborn, Matplotlib, Scikit-learn, Pandas, and NumPy. The project showcases a highly accurate model with an R-Squared score of approximately 0.98.
-   - [Project Notebook]([Data Science Projects/Predicting student performance using Linear Regression/Student_Performance.ipynb](https://github.com/jaysomp/Projects/blob/main/Data%20Science%20Projects/Predicting%20student%20performance%20using%20Linear%20Regression/Student_Performance%20.ipynb))
-   - [Dataset on GitHub]([Data Science Projects/Predicting student performance using Linear Regression/Student_Performance.csv](https://github.com/jaysomp/Projects/blob/main/Data%20Science%20Projects/Predicting%20student%20performance%20using%20Linear%20Regression/Student_Performance.csv))
+   - [Project Notebook]((https://github.com/jaysomp/Projects/blob/main/Data%20Science%20Projects/Predicting%20student%20performance%20using%20Linear%20Regression/Student_Performance%20.ipynb))
+   - [Dataset on GitHub]((https://github.com/jaysomp/Projects/blob/main/Data%20Science%20Projects/Predicting%20student%20performance%20using%20Linear%20Regression/Student_Performance.csv))
    - **Highlights:**
      - **Dataset:** The project used a dataset available on the GitHub repository, containing student performance data.
      - **Linear Regression Model:** The model achieved an impressive R-Squared score of approximately 0.98.
