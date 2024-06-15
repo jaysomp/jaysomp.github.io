@@ -24,9 +24,9 @@ Welcome to my GitHub repository, where I share my projects in both data science 
 
 1. **Emotion Classification Using Naive Bayes Classifier**
    - Description: In this data science project, I developed a Jupyter notebook for Emotion Classification using a Naive Bayes Classifier. I leveraged various Python libraries, including Seaborn, Matplotlib, Scikit-learn, Pandas, and NumPy, to create an effective emotion classification model.
-   - [Notebook]([https://github.com/jaysomp/Projects/blob/main/Data%20Science%20Projects/Emotion%20classification%20using%20Naive%20Bayes%20Classifier/Emotion_Classification.ipynb](https://github.com/jaysomp/Projects/blob/main/Data-Science-Projects/Emotion-classification-using-Naive-Bayes-Classifier/Emotion_Classification.ipynb))
+   - [Notebook](https://github.com/jaysomp/Projects/blob/main/Data-Science-Projects/Emotion-classification-using-Naive-Bayes-Classifier/Emotion_Classification.ipynb)
      
-   - [Dataset]([https://www.kaggle.com/code/freak360/emotion-dataset-nlp-sentiment-analysis/input](https://github.com/jaysomp/Projects/blob/main/Data-Science-Projects/Emotion-classification-using-Naive-Bayes-Classifier/Emotion_classify_Data.csv))
+   - [Dataset](https://github.com/jaysomp/Projects/blob/main/Data-Science-Projects/Emotion-classification-using-Naive-Bayes-Classifier/Emotion_classify_Data.csv)
 
     **Highlights:**
      - **Dataset:** The project utilized the Emotion Dataset available on Kaggle, containing text data with associated emotions. The dataset includes a statement and the sentiment produced by the statement. To facilitate modeling, I encoded the three emotions, as they were categorical features.
@@ -36,9 +36,9 @@ Welcome to my GitHub repository, where I share my projects in both data science 
 
 2. **Predicting Student Performance Using Linear Regression**
    - Description: This data science project focuses on predicting student performance using a Linear Regression model. The Jupyter notebook incorporates Python libraries like Seaborn, Matplotlib, Scikit-learn, Pandas, and NumPy. The project showcases a highly accurate model with an R-Squared score of approximately 0.98.
-   - [Notebook]([https://github.com/jaysomp/Projects/blob/main/Data%20Science%20Projects/Predicting%20student%20performance%20using%20Linear%20Regression/Student_Performance.ipynb](https://github.com/jaysomp/Projects/blob/main/Data-Science-Projects/Predicting-student-performance-using-Linear-Regression/Student_Performance.ipynb))
+   - [Notebook](https://github.com/jaysomp/Projects/blob/main/Data-Science-Projects/Predicting-student-performance-using-Linear-Regression/Student_Performance.ipynb)
 
-   - [Dataset]([https://github.com/jaysomp/Projects/blob/main/Data%20Science%20Projects/Predicting%20student%20performance%20using%20Linear%20Regression/Student_Performance.csv](https://github.com/jaysomp/Projects/blob/main/Data-Science-Projects/Predicting-student-performance-using-Linear-Regression/Student_Performance.csv))
+   - [Dataset](https://github.com/jaysomp/Projects/blob/main/Data-Science-Projects/Predicting-student-performance-using-Linear-Regression/Student_Performance.csv)
 
     **Highlights:**
      - **Dataset:** The dataset includes the following features: Hours Studied, Previous Scores, Extracurricular Activities, Sleep Hours, Sample Question Papers Practiced. We are predicting the Performance Index. To effectively utilize the "Extracurricular Activities" feature in our modeling process, I applied categorical feature encoding techniques.
@@ -48,9 +48,16 @@ Welcome to my GitHub repository, where I share my projects in both data science 
 
 3. **Classifying Diseases/Illnesses**
    - Description: Developed and implemented machine learning models, including Gaussian Naive Bayes, SVM, Decision Trees, and Random Forest, to accurately classify illnesses and diseases based on patient symptoms. Our goal was to assist physicians in preparing for patient visits more effectively. Our team also included a comprehensive report with our findings.
-   - [Notebook]([https://github.com/jaysomp/Projects/blob/main/Data%20Science%20Projects/Predicting%20student%20performance%20using%20Linear%20Regression/Student_Performance.ipynb](https://github.com/jaysomp/Projects/blob/main/Data-Science-Projects/Predicting-student-performance-using-Linear-Regression/Student_Performance.ipynb))
+   - [Notebook](https://github.com/jaysomp/Projects/blob/main/Data-Science-Projects/Classifying-Diseases-Illnesses/Disease_PredictionModel.ipynb)
 
    - [Report](https://github.com/jaysomp/Projects/blob/main/Data-Science-Projects/Classifying-Diseases-Illnesses/Data%20Science%20Final%20Report_%20Disease_Illness%20Prediction.docx.pdf)
+  
+**Highlights:**
+     - **Dataset:** The project utilized a dataset from Kaggle comprising 4920 rows and 134 columns, with 132 binary symptom columns and one categorical prognosis column encompassing 41 unique diseases.
+     - **Data Preprocessing:** Preprocessing steps included handling missing values, normalization, feature selection, and transformations like substituting underscores with spaces and encoding categorical features.
+     - **Models:** The Random Forest model achieved an accuracy of around 95% after hyperparameter tuning and feature curation, providing valuable insights into feature importance for improved decision-making during patient interactions.
+     - **Proposed Solution:** The developed predictive model is intended to be integrated into a chatbot system, providing physicians with baseline assessments of potential illnesses based on patient symptoms, enabling better preparedness and efficiency during appointments.
+
 
 
 
