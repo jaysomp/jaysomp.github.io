@@ -1,5 +1,3 @@
-# Portfolio
-
 ## 💼 Technical Skills
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -15,7 +13,6 @@
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
-
 ## 👁️ Overview
 
 Welcome to my GitHub repository, where I share my projects in both data science and software engineering. This repository is a collection of Jupyter notebooks, software applications, and code that demonstrate my skills in data analysis, machine learning, and software development.
@@ -25,38 +22,36 @@ Welcome to my GitHub repository, where I share my projects in both data science 
 1. **Emotion Classification Using Naive Bayes Classifier**
    - Description: In this data science project, I developed a Jupyter notebook for Emotion Classification using a Naive Bayes Classifier. I leveraged various Python libraries, including Seaborn, Matplotlib, Scikit-learn, Pandas, and NumPy, to create an effective emotion classification model.
    - [Notebook](https://github.com/jaysomp/Projects/blob/main/Data-Science-Projects/Emotion-classification-using-Naive-Bayes-Classifier/Emotion_Classification.ipynb)
-     
    - [Dataset](https://github.com/jaysomp/Projects/blob/main/Data-Science-Projects/Emotion-classification-using-Naive-Bayes-Classifier/Emotion_classify_Data.csv)
-
-    **Highlights:**
-     - **Dataset:** The project utilized the Emotion Dataset available on Kaggle, containing text data with associated emotions. The dataset includes a statement and the sentiment produced by the statement. To facilitate modeling, I encoded the three emotions, as they were categorical features.
-     - **Classification Model:** The Naive Bayes classifier achieved an F1 score of approximately 0.88.
-     - **Data Visualization:** To evaluate the model's performance, I created a confusion matrix heatmap, providing visual insights into the classification results.
-     - **User Input Testing:** The notebook includes a section for user input, allowing testing with custom text inputs not in the dataset.
+   
+   **Highlights:**
+   - **Dataset:** The project utilized the Emotion Dataset available on Kaggle, containing text data with associated emotions. The dataset includes a statement and the sentiment produced by the statement. To facilitate modeling, I encoded the three emotions as categorical features.
+   - **Classification Model:** The Naive Bayes classifier achieved an F1 score of approximately 0.88.
+   - **Data Visualization:** To evaluate the model's performance, I created a confusion matrix heatmap, providing visual insights into the classification results.
+   - **User Input Testing:** The notebook includes a section for user input, allowing testing with custom text inputs not in the dataset.
 
 2. **Predicting Student Performance Using Linear Regression**
    - Description: This data science project focuses on predicting student performance using a Linear Regression model. The Jupyter notebook incorporates Python libraries like Seaborn, Matplotlib, Scikit-learn, Pandas, and NumPy. The project showcases a highly accurate model with an R-Squared score of approximately 0.98.
    - [Notebook](https://github.com/jaysomp/Projects/blob/main/Data-Science-Projects/Predicting-student-performance-using-Linear-Regression/Student_Performance.ipynb)
-
    - [Dataset](https://github.com/jaysomp/Projects/blob/main/Data-Science-Projects/Predicting-student-performance-using-Linear-Regression/Student_Performance.csv)
-
-    **Highlights:**
-     - **Dataset:** The dataset includes the following features: Hours Studied, Previous Scores, Extracurricular Activities, Sleep Hours, Sample Question Papers Practiced. We are predicting the Performance Index. To effectively utilize the "Extracurricular Activities" feature in our modeling process, I applied categorical feature encoding techniques.
-     - **Linear Regression Model:** The model achieved an impressive R-Squared score of approximately 0.98.
-     - **Data Visualization:** To gain insights into the relationships between variables, I utilized data visualization techniques. This included creating a correlation heatmap to identify feature relationships and scatter plots for visualizing data points and their linear relationships with the target variable.
-     - **User Input Testing:** The notebook allows testing the model with custom data, making predictions on student performance not   present in the dataset.
+   
+   **Highlights:**
+   - **Dataset:** The dataset includes features such as Hours Studied, Previous Scores, Extracurricular Activities, Sleep Hours, and Sample Question Papers Practiced. The target variable is the Performance Index. To effectively utilize the "Extracurricular Activities" feature in our modeling process, I applied categorical feature encoding techniques.
+   - **Linear Regression Model:** The model achieved an impressive R-Squared score of approximately 0.98.
+   - **Data Visualization:** To gain insights into the relationships between variables, I utilized data visualization techniques. This included creating a correlation heatmap to identify feature relationships and scatter plots for visualizing data points and their linear relationships with the target variable.
+   - **User Input Testing:** The notebook allows testing the model with custom data, making predictions on student performance not present in the dataset.
 
 3. **Classifying Diseases/Illnesses**
    - Description: Developed and implemented machine learning models, including Gaussian Naive Bayes, SVM, Decision Trees, and Random Forest, to accurately classify illnesses and diseases based on patient symptoms. Our goal was to assist physicians in preparing for patient visits more effectively. Our team also included a comprehensive report with our findings.
    - [Notebook](https://github.com/jaysomp/Projects/blob/main/Data-Science-Projects/Classifying-Diseases-Illnesses/Disease_PredictionModel.ipynb)
-
    - [Report](https://github.com/jaysomp/Projects/blob/main/Data-Science-Projects/Classifying-Diseases-Illnesses/Data%20Science%20Final%20Report_%20Disease_Illness%20Prediction.docx.pdf)
-  
-**Highlights:**
-     - **Dataset:** The project utilized a dataset from Kaggle comprising 4920 rows and 134 columns, with 132 binary symptom columns and one categorical prognosis column encompassing 41 unique diseases.
-     - **Data Preprocessing:** Preprocessing steps included handling missing values, normalization, feature selection, and transformations like substituting underscores with spaces and encoding categorical features.
-     - **Models:** The Random Forest model achieved an accuracy of around 95% after hyperparameter tuning and feature curation, providing valuable insights into feature importance for improved decision-making during patient interactions.
-     - **Proposed Solution:** The developed predictive model is intended to be integrated into a chatbot system, providing physicians with baseline assessments of potential illnesses based on patient symptoms, enabling better preparedness and efficiency during appointments.
+   
+   **Highlights:**
+   - **Dataset:** The project utilized a dataset from Kaggle comprising 4920 rows and 134 columns, with 132 binary symptom columns and one categorical prognosis column encompassing 41 unique diseases.
+   - **Data Preprocessing:** Preprocessing steps included handling missing values, normalization, feature selection, and transformations like substituting underscores with spaces and encoding categorical features.
+   - **Models:** The Random Forest model achieved an accuracy of around 95% after hyperparameter tuning and feature curation, providing valuable insights into feature importance for improved decision-making during patient interactions.
+   - **Proposed Solution:** The developed predictive model is intended to be integrated into a chatbot system, providing physicians with baseline assessments of potential illnesses based on patient symptoms, enabling better preparedness and efficiency during appointments.
+
 
 
 
